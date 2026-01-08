@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Khan",
+    "role": "CEO, BTech",
+    "review": "They did an excellent job on our Shopify store and SEO. Our website looks modern and performance has improved. Very professional team and great support.",
+    "rating": 5,
+    "image": "/img/testimonial/t1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ayesha Malik",
+    "role": "Marketing Manager, PixelPro",
+    "review": "Their digital marketing and SEO services helped us get more traffic and quality leads. They clearly understood our business needs and delivered great results.",
+    "rating": 5,
+    "image": "/img/testimonial/t2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Usman Ali",
+    "role": "Creative Designer, Innovix",
+    "review": "We hired them for web development and Shopify customization. The website is fast, clean, and user-friendly. Highly recommended for eCommerce projects.",
+    "rating": 5,
+    "image": "/img/testimonial/t3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fatima Noor",
+    "role": "Product Manager, SoftMind",
+    "review": "Their SEO and web development services improved our online visibility. The team was responsive, skilled, and delivered on time.",
+    "rating": 5,
+    "image": "/img/testimonial/t4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ahmed Raza",
+    "role": "Marketing Manager, GrowthHive",
+    "review": "We hired them for SEO optimization and content improvements. Our search rankings and organic traffic improved noticeably within a short time. Highly reliable team.",
+    "rating": 5,
+    "image": "/img/testimonial/t5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ahmed Raza",
+    "role": "Marketing Manager, GrowthHive",
+    "review": "Hired this team for SEO and performance marketing. Search visibility improved while paid campaigns delivered consistent, conversion-focused results.",
+    "rating": 5,
+    "image": "/img/testimonial/t6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ayesha Khan",
+    "role": "Founder, Brandora",
+    "review": "Partnered with them for business branding and performance marketing. Our brand identity became stronger, and campaigns aligned perfectly with business goals.",
+    "rating": 5,
+    "image": "/img/testimonial/t7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bilal Hussain",
+    "role": "Sales Lead, NexaCorp",
+    "review": "Brought them on board for lead generation and performance marketing. Lead quality improved significantly and ad spend delivered measurable ROI.",
+    "rating": 5,
+    "image": "/img/testimonial/t8.jpg"
+  }
+]
