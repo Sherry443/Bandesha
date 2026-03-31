@@ -1,0 +1,62 @@
+import { SectionProps } from "@/types/sectionProps";
+import WhyChooseUsBg from "@/public/img/why-choose-us/bg.jpg";
+import WhyChooseUsImage from "@/public/img/why-choose-us/1.jpg";
+import WhyChooseUsImageMobile from "@/public/img/why-choose-us/575.jpg";
+import PromoImage from "@/public/img/why-choose-us/2.jpg";
+import Icons from "@/components/Icons";
+
+export const businessData: SectionProps = {
+    wrapperCls: "!bg-transparent mt-100 section-padding",
+    container: "container",
+    backgroundImage: {
+        src: WhyChooseUsBg.src,
+        width: 1920,
+        height: 887,
+        loading: "lazy",
+        alt: "Background image"
+    },
+    image: {
+        src: WhyChooseUsImage.src,
+        srcMobile: WhyChooseUsImageMobile.src,
+        width: 1000,
+        height: 742,
+        loading: "lazy",
+        alt: "Choose us image"
+    },
+    subheading: "Growth-Focused",
+    heading: "Build a Brand That Commands Attention",
+    text: "We ensure higher search rankings with expert SEO services, including On-Page and Off-Page optimization.",
+    button: {
+        label: "More About Us",
+        href: "/about-us",
+        type: "primary"
+    },
+    rotatingLogo: {
+        logo: <Icons.ChooseRotatingLogo />,
+        text: "25",
+    },
+    promotions: [
+        {
+            icon: <Icons.Mission />,
+            title: "Our Mission",
+            text: "Our mission is push engage boundaries, enga audiences, and driv engage.",
+        },
+        {
+            icon: <Icons.Vision />,
+            title: "Our Vision",
+            text: "Our mission is push engage boundaries, enga audiences, and driv engage.",
+        },
+        {
+            icon: <Icons.Awards />,
+            title: "Our Awards",
+            text: "Our mission is push engage boundaries, enga audiences, and driv engage.",
+        },
+    ],
+    promoImage: {
+        src: PromoImage.src,
+        width: 800,
+        height: 834,
+        loading: "lazy",
+        alt: "Choose us image"
+    },
+}
